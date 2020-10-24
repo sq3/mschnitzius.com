@@ -1,0 +1,34 @@
+languageCode = "en-us"
+title = "Marc Schnitzius"
+baseurl = "https://mschnitzius.com/"
+theme = "hallo"
+
+[Author]
+    name = "Marc"
+[params]
+    greeting = "Hello."
+
+[params.colors]
+    background = "#8db3ba"
+    foreground = "#edf7ff"
+    hover = "#ffba82"
+
+[[params.links]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/marcschnitzius"
+
+[[params.links]]
+  medium = "Strava"
+  icon = "strava"
+  link = "https://www.strava.com/athletes/marqi-marcs"
+
+[[params.links]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/sq3"
+
+[[params.links]]
+  medium = "Xing"
+  icon = "xing"
+  link = "https://www.xing.com/profile/Marc_Schnitzius/cv"
