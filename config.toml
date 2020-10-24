@@ -16,19 +16,25 @@ theme = "hallo"
 [[params.links]]
   medium = "Twitter"
   icon = "twitter"
-  link = "https://twitter.com/marcschnitzius"
+  url = "https://twitter.com/marcschnitzius"
 
 [[params.links]]
   medium = "Strava"
   icon = "strava"
-  link = "https://www.strava.com/athletes/marqi-marcs"
+  url = "https://www.strava.com/athletes/marqi-marcs"
 
 [[params.links]]
   medium = "Github"
   icon = "github"
-  link = "https://github.com/sq3"
+  url = "https://github.com/sq3"
 
 [[params.links]]
   medium = "Xing"
   icon = "xing"
-  link = "https://www.xing.com/profile/Marc_Schnitzius/cv"
+  url = "https://www.xing.com/profile/Marc_Schnitzius/cv"
+
+[[params.links]]
+  iconset = "fas"
+  medium = "Mail"
+  icon = "envelope"
+  url = "mailto:mail@mschnitzius.com"
