@@ -38,3 +38,9 @@ theme = "hallo"
   medium = "Mail"
   icon = "envelope"
   url = "mailto:mail@mschnitzius.com"
+
+[[params.links]]
+  iconset = "fas"
+  medium = "Instagram"
+  icon = "instagram"
+  url = "https://www.instagram.com/marqi_marcs"
