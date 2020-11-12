@@ -8,6 +8,7 @@ theme = "hallo"
 [params]
     greeting = "Hello."
     description = "I am Marc"
+    GoogleAnalyticsID = "G-WZCZ7C3CLM"
 
 [params.colors]
     background = "#8db3ba"
