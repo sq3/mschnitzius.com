@@ -45,3 +45,8 @@ theme = "hallo"
   medium = "Instagram"
   icon = "instagram"
   url = "https://www.instagram.com/marqi_marcs"
+
+[[params.links]]
+  medium = "keybase"
+  icon = "keybase"
+  url = "https://keybase.io/mschnitzius"
