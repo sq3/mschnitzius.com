@@ -36,6 +36,11 @@ theme = "hallo"
   url = "https://www.xing.com/profile/Marc_Schnitzius/cv"
 
 [[params.links]]
+  medium = "LinkedIn"
+  icon = "linkedin"
+  url = "https://www.linkedin.com/in/marc-schnitzius-2417b2233/"
+
+[[params.links]]
   iconset = "fas"
   medium = "Mail"
   icon = "envelope"
