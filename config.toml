@@ -3,22 +3,16 @@ title = "Marc Schnitzius"
 baseurl = "https://mschnitzius.com/"
 theme = "hallo"
 
-[Author]
-    name = "Marc"
 [params]
     greeting = "Hello."
     description = "I am Marc"
+    Author = "Marc"
     GoogleAnalyticsID = "G-WZCZ7C3CLM"
 
 [params.colors]
     background = "#8db3ba"
     foreground = "#edf7ff"
     hover = "#ffba82"
-
-[[params.links]]
-  medium = "Twitter"
-  icon = "twitter"
-  url = "https://twitter.com/marcschnitzius"
 
 [[params.links]]
   medium = "Strava"
@@ -29,11 +23,6 @@ theme = "hallo"
   medium = "Github"
   icon = "github"
   url = "https://github.com/sq3"
-
-[[params.links]]
-  medium = "Xing"
-  icon = "xing"
-  url = "https://www.xing.com/profile/Marc_Schnitzius/cv"
 
 [[params.links]]
   medium = "LinkedIn"
